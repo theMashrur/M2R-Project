@@ -24,4 +24,6 @@ Contributors names and contact info
 To be added
 
 ## Acknowledgments
-```to be added```
+
+* Stellar Dataset: fedesoriano. (January 2022). Stellar Classification Dataset - SDSS17. Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17.
+* UCI Heart Disease Datatset: UCI Database
