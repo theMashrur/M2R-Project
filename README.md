@@ -14,7 +14,7 @@ Code used for researching and running experiments with Random Forests and Suppor
 * Pandas
 
 ### Installing
-```To be added```
+```pip install -r requirements.txt```
 
 ## Authors
 
