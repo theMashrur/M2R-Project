@@ -18,12 +18,12 @@ Code used for researching and running experiments with Random Forests and Suppor
 
 ## Authors
 
-* Mashrur Khondokar
-* Maksymilian Wolski
-* Yuxin Zhang
-* Mark Humphries
-* Sebastian Dixon
-* Matthew McDonnell
+* [Mashrur Khondokar](https://github.com/theMashrur)
+* [Maksymilian Wolski](https://github.com/Cheeto-exe)
+* [Yuxin Zhang](https://github.com/YuxinZhang20)
+* [Mark Humphries](https://github.com/markhumphries997)
+* [Sebastian Dixon](https://github.com/sebdixon)
+* [Matthew McDonnell](https://github.com/matthew-mcdonnell)
 
 ## Acknowledgments
 
